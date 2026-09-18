@@ -178,7 +178,10 @@ for it in sorted(items, key=lambda x: x["published"] or ""):
                 if c["kind"] == "file" and not c["original"]:
                     c["original"] = hint
                     sp = urlsplit(hint)
-                    if not c["media"].startswith("wp-content/"):
+                    up = re.match(r"(?i)^https?://(?:www\.)?hermescenter\.org/wp-content/uploads/(.+)$", hint)
+                    if up:                                               # a Hermes upload the crawl filed elsewhere
+                        c["media"] = "wp-content/uploads/" + unquote(up.group(1))
+                    elif not c["media"].startswith("wp-content/"):
                         c["media"] = ext_rel(hint)
                 elif c["kind"] in ("missing", "page", "external") and c.get("original") != hint:
                     c = {"kind": "missing" if is_file_url(hint) and re.match(r"^https?://(www\.)?hermescenter\.org/", hint, re.I) else "external", "original": hint}

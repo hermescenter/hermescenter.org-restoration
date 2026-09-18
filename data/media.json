@@ -374,18 +374,6 @@
     ]
   },
   {
-    "path": "media/external/hermescenter.org/Dichiarazione-congiunta-della-società-civile_-Gli-ba37ae50.pdf",
-    "original_url": "https://www.hermescenter.org/wp-content/uploads/2020/04/Dichiarazione-congiunta-della-società-civile_-Gli-Stati-che-utilizzano-le-tecnologie-di-sorveglianza-digitale-per-combattere-la-pandemia-devono-rispettare-i-diritti-umani.pdf",
-    "origin": "esterno",
-    "recovered": false,
-    "mime": "application/pdf",
-    "bytes": 70486,
-    "sha256": "7665527400cd1f722e2b513595e1d186073b2fa037d2474c7e32e4621a71822c",
-    "used_by": [
-      "dichiarazione-societa-civile-sorveglianza-digitale-pandemia-diritti-umani"
-    ]
-  },
-  {
     "path": "media/external/lh4.googleusercontent.com/KmJ5TDF42CdG2BUPzssapX_xtjX8QEEAYimEQALRLKs9L3q8ai-5be37f85",
     "original_url": "https://lh4.googleusercontent.com/KmJ5TDF42CdG2BUPzssapX_xtjX8QEEAYimEQALRLKs9L3q8aizlUhEM8VTWkJsUXKe37-PD-jPTC_zDzxdFCkn68o-V84cn7h1sJ1MjlFz4KTmoDJ9TbsKRLQff0jabJnicokip",
     "origin": "esterno",
@@ -1000,6 +988,18 @@
     "sha256": "c7755c093d950df863beae3542950aca5eacba9b22b80ce34e8342f08accf829",
     "used_by": [
       "lettera-aperta-la-societa-civile-esorta-gli-stati-membri-a-rispettare-i-principi-di-legge-nel-regolamento-online-sui-contenuti-terroristici"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2020/04/Dichiarazione-congiunta-della-società-civile_-Gli-Stati-che-utilizzano-le-tecnologie-di-sorveglianza-digitale-per-combattere-la-pandemia-devono-rispettare-i-diritti-umani.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2020/04/Dichiarazione-congiunta-della-società-civile_-Gli-Stati-che-utilizzano-le-tecnologie-di-sorveglianza-digitale-per-combattere-la-pandemia-devono-rispettare-i-diritti-umani.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 70486,
+    "sha256": "7665527400cd1f722e2b513595e1d186073b2fa037d2474c7e32e4621a71822c",
+    "used_by": [
+      "dichiarazione-societa-civile-sorveglianza-digitale-pandemia-diritti-umani"
     ]
   },
   {
