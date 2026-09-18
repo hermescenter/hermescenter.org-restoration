@@ -1,0 +1,60 @@
+{
+  "id": "it__monitor-numero0",
+  "title": "Monitor numero 0, ottobre 2021",
+  "slug": "monitor-numero0",
+  "path": "/it/monitor-numero0/",
+  "original_url": "https://www.hermescenter.org/it/monitor-numero0/",
+  "old_urls": [
+    "/it_monitor-numero0/"
+  ],
+  "date_gmt": "2021-11-06T08:39:00Z",
+  "date_europe_rome": "2021-11-06 09:39:00",
+  "modified_gmt": "2021-12-06T11:23:52Z",
+  "author": "admin",
+  "language": "IT",
+  "words": 1744,
+  "categories": [
+    "/it/",
+    "Newsletter"
+  ],
+  "tags": [],
+  "featured_image": null,
+  "attachments": [
+    {
+      "type": "documento",
+      "original_url": "https://www.hermescenter.org/wp-content/uploads/Moratoria-riconoscimento-facciale.pdf",
+      "file": "media/wp-content/uploads/Moratoria-riconoscimento-facciale.pdf"
+    },
+    {
+      "type": "documento",
+      "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/11/MONITOr.jpg",
+      "file": "media/wp-content/uploads/2021/11/MONITOr.jpg"
+    },
+    {
+      "type": "immagine",
+      "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/11/Schermata-2021-11-05-alle-15.52.47.png",
+      "file": "media/wp-content/uploads/2021/11/Schermata-2021-11-05-alle-15.52.47.png"
+    },
+    {
+      "type": "immagine",
+      "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/11/Schermata-2021-11-05-alle-16.30.02.png",
+      "file": "media/wp-content/uploads/2021/11/Schermata-2021-11-05-alle-16.30.02.png"
+    },
+    {
+      "type": "immagine",
+      "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/11/WhatsApp-Image-2021-11-05-at-14.52.48.jpeg",
+      "file": "media/wp-content/uploads/2021/11/WhatsApp-Image-2021-11-05-at-14.52.48.jpeg"
+    },
+    {
+      "type": "immagine",
+      "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/11/MONITOr-1024x553.jpg",
+      "file": "media/wp-content/uploads/2021/11/MONITOr-1024x553.jpg"
+    }
+  ],
+  "missing": [],
+  "content_file": "data/posts/it__monitor-numero0/content.html",
+  "source": {
+    "type": "wayback-zip",
+    "file": "it/monitor-numero0.html"
+  }
+}

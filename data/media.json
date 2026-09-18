@@ -1,0 +1,1826 @@
+[
+  {
+    "path": "media/external/194.242.234.211/MODELLO+esercizio+diritti+in+materia+di+protezione-702855df.pdf",
+    "original_url": "http://194.242.234.211/documents/10160/10704/MODELLO+esercizio+diritti+in+materia+di+protezione+dei+dati+personali.pdf",
+    "origin": "esterno",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 66750,
+    "sha256": "d208597819e9be04d6227b29393de5adf3f749320303f69b45d58f0d7b1e69ee",
+    "used_by": [
+      "conservazione-indiscriminata-dei-dati-per-6-anni"
+    ]
+  },
+  {
+    "path": "media/external/algorithmwatch.org/Database-issue-paperApril2022.pdf",
+    "original_url": "https://algorithmwatch.org/en/wp-content/uploads/2022/04/Database-issue-paperApril2022.pdf",
+    "origin": "esterno",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 187539,
+    "sha256": "a00e0f8dd346111c99682fe6aa0422474e17d728a3de6c443192c90134e27439",
+    "used_by": [
+      "triloghi-ue-lai-act-deve-garantire-il-rispetto-dei-diritti-del-cittadino"
+    ]
+  },
+  {
+    "path": "media/external/anticorruzione.it/PTPC_31 gennaio 2017.pdf",
+    "original_url": "http://www.anticorruzione.it/portal/rest/jcr/repository/collaboration/Digital%20Assets/anacdocs/AmministrazioneTrasparente/AltriContenutiCorruzione/2017_2019/PTPC_31%20gennaio%202017.pdf",
+    "origin": "esterno",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 996081,
+    "sha256": "0b94a54d0d5655793801db73daaeb29939f905b5d74feb1608e89aa191a50498",
+    "used_by": [
+      "anac-ed-openwhistleblowing"
+    ]
+  },
+  {
+    "path": "media/external/anticorruzione.it/Piattaforma.whistleblowing.ANAC.pdf",
+    "original_url": "http://www.anticorruzione.it/portal/rest/jcr/repository/collaboration/Digital%20Assets/anacdocs/Attivita/Anticorruzione/SegnalazioniIllecitoWhistleblower/SegnalazioneIllecitiTutelaDipendentePubblico/Piattaforma.whistleblowing.ANAC.pdf",
+    "origin": "esterno",
+    "recovered": true,
+    "mime": "application/pdf",
+    "bytes": 477410,
+    "sha256": "a67bd169626fdb7d1bd29e69e37d433859540dff4a0c7be80dc69b2fe7d3df6f",
+    "used_by": [
+      "anac-ed-openwhistleblowing"
+    ]
+  },
+  {
+    "path": "media/external/anticorruzione.it/UR104 - whistleblowing.16.03.15_distributed.pdf",
+    "original_url": "http://www.anticorruzione.it/portal/rest/jcr/repository/collaboration/Digital%20Assets/anacdocs/Attivita/ConsultazioniOnline/20150224/UR104%20-%20whistleblowing.16.03.15_distributed.pdf",
+    "origin": "esterno",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 1048576,
+    "sha256": "76121ca5482428260d5bb2366b0aac1c73f2e307883ee44720f8df708e771fa4",
+    "used_by": [
+      "consultazione-anac-sul-whistleblowing-posizione-del-centro-hermes"
+    ]
+  },
+  {
+    "path": "media/external/assets.documentcloud.org/1_dd-3787-2020-all_1-all1argoprogettodefinitivo-pe-e85cc452.pdf",
+    "original_url": "https://assets.documentcloud.org/documents/20419372/1_dd-3787-2020-all_1-all1argoprogettodefinitivo-per-seconda-istanza.pdf",
+    "origin": "esterno",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 2171129,
+    "sha256": "2277ee92d95d634312a2f7b2dad5f93c6abe629d495f8eb7162dcdceb3df0ca5",
+    "used_by": [
+      "la-soluzione-innovativa-di-torino-argo"
+    ]
+  },
+  {
+    "path": "media/external/assets.documentcloud.org/2020500-let-istanza-accesso-riccardo-coluccini-progetto-argo.pdf",
+    "original_url": "https://assets.documentcloud.org/documents/20419367/2020500-let-istanza-accesso-riccardo-coluccini-progetto-argo.pdf",
+    "origin": "esterno",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 1998864,
+    "sha256": "6c03855173f4b20cb23569f96cf8fa411b232c747c1ed07a8681ec9b27d6e79c",
+    "used_by": [
+      "la-soluzione-innovativa-di-torino-argo"
+    ]
+  },
+  {
+    "path": "media/external/assets.documentcloud.org/54523-risposta-coluccini-argo-seconda-istanza_dpia.pdf",
+    "original_url": "https://assets.documentcloud.org/documents/20419371/54523-risposta-coluccini-argo-seconda-istanza_dpia.pdf",
+    "origin": "esterno",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 160655,
+    "sha256": "4d8075d2ae4812106e3f8fe6b8e7ae7b8cd20ca07bbbc558b9fbebf54fb666e9",
+    "used_by": [
+      "la-soluzione-innovativa-di-torino-argo"
+    ]
+  },
+  {
+    "path": "media/external/assets.documentcloud.org/progetto-preliminare.pdf",
+    "original_url": "https://assets.documentcloud.org/documents/20419370/progetto-preliminare.pdf",
+    "origin": "esterno",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 2420261,
+    "sha256": "0a6557f33b940d2b162ac53d58c9e6b5d188af853cc1559fd623bfd1bb89a73b",
+    "used_by": [
+      "la-soluzione-innovativa-di-torino-argo"
+    ]
+  },
+  {
+    "path": "media/external/beuc.eu/beuc-x-2017-129_provisions_of_internet_services_fo-20375715.pdf",
+    "original_url": "http://www.beuc.eu/publications/beuc-x-2017-129_provisions_of_internet_services_for_competition_protection_and_free_access_for_users.pdf",
+    "origin": "esterno",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 779621,
+    "sha256": "4b69cf8dc85c75f57060a518fd8b6ab496f2acbdb0097d2d000df12ac3179129",
+    "used_by": [
+      "net-neutrality-device-neutrality"
+    ]
+  },
+  {
+    "path": "media/external/blogs-images.forbes.com/GlobaLeaksArchitectureDetail2-300x225.png",
+    "original_url": "http://blogs-images.forbes.com/andygreenberg/files/2011/01/GlobaLeaksArchitectureDetail2-300x225.png",
+    "origin": "esterno",
+    "recovered": false,
+    "mime": "image/png",
+    "bytes": 37489,
+    "sha256": "098ad168e883dc76ba3aac943d759c463f80310f67e4a9dc6239129b3cb3ba6c",
+    "used_by": [
+      "26012011-forbes-globaleaks-wants-to-be-the-bittorrent-to-wikileaks-napster"
+    ]
+  },
+  {
+    "path": "media/external/cms.gruene.de/Koalitionsvertrag-SPD-GRUENE-FDP-2021-2025.pdf",
+    "original_url": "https://cms.gruene.de/uploads/documents/Koalitionsvertrag-SPD-GRUENE-FDP-2021-2025.pdf",
+    "origin": "esterno",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 1141947,
+    "sha256": "6a765645cac7792774dd585f801cd2917213d69800fd4858cd44eeee1c13c88a",
+    "used_by": [
+      "nuovo-governo-germania-divieto-di-tecnologie-biometriche-impegno-coalizione",
+      "monitor-numero-1"
+    ]
+  },
+  {
+    "path": "media/external/cnil.fr/reconnaissance_faciale.pdf",
+    "original_url": "https://www.cnil.fr/sites/default/files/atoms/files/reconnaissance_faciale.pdf",
+    "origin": "esterno",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 783220,
+    "sha256": "3e5be11929213dfd7b7a21fb1dabe6fc23cacf7e350bb2daaa08a366b371aadf",
+    "used_by": [
+      "contro-gli-emendamenti-del-gruppo-epp-in-favore-della-sorveglianza-di-massa"
+    ]
+  },
+  {
+    "path": "media/external/comune.roma.it/Bozza_PTPCT_2020_2022A.pdf",
+    "original_url": "https://www.comune.roma.it/web-resources/cms/documents/Bozza_PTPCT_2020_2022A.pdf",
+    "origin": "esterno",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 1048576,
+    "sha256": "5cc934067f948d033b0e80245946c2b835fa6f4038302620e72546b86db97eb6",
+    "used_by": [
+      "risposta-alla-consultazione-su-piano-anticorruzione-del-comune-di-roma"
+    ]
+  },
+  {
+    "path": "media/external/comune.roma.it/modulo_avviso_2020_mod.pdf",
+    "original_url": "https://www.comune.roma.it/web-resources/cms/documents/modulo_avviso_2020_mod.pdf",
+    "origin": "esterno",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 370986,
+    "sha256": "043ad5289c80445375721ebd04a4d2e4e24b0454e94e7303d4ecb8f87388bfaa",
+    "used_by": [
+      "risposta-alla-consultazione-su-piano-anticorruzione-del-comune-di-roma"
+    ]
+  },
+  {
+    "path": "media/external/comune.torino.it/2020_01738.pdf",
+    "original_url": "http://www.comune.torino.it/giunta_comune/intracom/htdocs/2020/2020_01738.pdf",
+    "origin": "esterno",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 1048576,
+    "sha256": "eae4f8ae47a0203c09115731f42c1c8ccc3a2b52dfa23fe60c4d8b5b7edad41c",
+    "used_by": [
+      "la-soluzione-innovativa-di-torino-argo"
+    ]
+  },
+  {
+    "path": "media/external/comune.torino.it/2020_1703787.pdf",
+    "original_url": "http://www.comune.torino.it/giunta_comune/intracom/htdocs/2020/2020_1703787.pdf",
+    "origin": "esterno",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 131589,
+    "sha256": "d13a5f3fd3e1af9fd626f84c697970b07a06dc4e311762aa1bf3211454a01ce3",
+    "used_by": [
+      "la-soluzione-innovativa-di-torino-argo"
+    ]
+  },
+  {
+    "path": "media/external/comune.torino.it/2021_1700024.pdf",
+    "original_url": "http://www.comune.torino.it/giunta_comune/intracom/htdocs/2021/2021_1700024.pdf",
+    "origin": "esterno",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 98186,
+    "sha256": "faaf3f3ded0caa965b1a0bd64ba24033c547cac3b4e8d8c5c0dfccd57507c38d",
+    "used_by": [
+      "la-soluzione-innovativa-di-torino-argo"
+    ]
+  },
+  {
+    "path": "media/external/corriere.it/GlobaLeaks-NoiseBridge-March17.020--620x420.jpg",
+    "original_url": "http://www.corriere.it/Media/Foto/2012/04/14/GlobaLeaks-NoiseBridge-March17.020--620x420.jpg",
+    "origin": "esterno",
+    "recovered": false,
+    "mime": "image/jpeg",
+    "bytes": 33692,
+    "sha256": "37362dfe09ef59569925693fb75e598674333fd9ef1e82e98097114d7a0be328",
+    "used_by": [
+      "corriere-it-il-software-democratico-che-tutela-le-fonti"
+    ]
+  },
+  {
+    "path": "media/external/corriere.it/GlobaLeaks-NoiseBridge-March17.029--620x420.jpg",
+    "original_url": "http://www.corriere.it/Media/Foto/2012/04/14/GlobaLeaks-NoiseBridge-March17.029--620x420.jpg",
+    "origin": "esterno",
+    "recovered": false,
+    "mime": "image/jpeg",
+    "bytes": 27685,
+    "sha256": "83100f444f509887b71b1de6583ee2b2214ebefb5df3fc15a9a6bcf38f4750a2",
+    "used_by": [
+      "corriere-it-il-software-democratico-che-tutela-le-fonti"
+    ]
+  },
+  {
+    "path": "media/external/dq4n3btxmr8c9.cloudfront.net/Civic_Space_Report_2020_Liberties_Greenpeace.pdf",
+    "original_url": "https://dq4n3btxmr8c9.cloudfront.net/files/Mq7uU3/Civic_Space_Report_2020_Liberties_Greenpeace.pdf",
+    "origin": "esterno",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 1048576,
+    "sha256": "3281861d0158b78ba08fb7664568fe18bbd218cf1e8f0d1580dbdc00bbced4e9",
+    "used_by": [
+      "aziende-scuole-aeroporti-riconoscimento-facciale-ovunque-reclaim-your-face"
+    ]
+  },
+  {
+    "path": "media/external/eclecticismnow.files.wordpress.com/12-02-2019_istanza-accesso-civico-fp-risposta2.pdf",
+    "original_url": "https://eclecticismnow.files.wordpress.com/2019/02/12-02-2019_istanza-accesso-civico-fp-risposta2.pdf",
+    "origin": "esterno",
+    "recovered": true,
+    "mime": "application/pdf",
+    "bytes": 118885,
+    "sha256": "3742f2df005e3c231960fc5c8536c283cd935bbf6693a06175083b659418caf6",
+    "used_by": [
+      "mancanza-di-una-vision-tecnologica-a-supporto-del-foia"
+    ]
+  },
+  {
+    "path": "media/external/edpb.europa.eu/edpb_guidelines_201903_videosurveillance.pdf",
+    "original_url": "https://edpb.europa.eu/sites/edpb/files/consultation/edpb_guidelines_201903_videosurveillance.pdf",
+    "origin": "esterno",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 361424,
+    "sha256": "375b88dc9d05f2ba0fdd5d949022c1752f49acab8d12e3caba537ce3a2038d37",
+    "used_by": [
+      "la-soluzione-innovativa-di-torino-argo"
+    ]
+  },
+  {
+    "path": "media/external/edpb.europa.eu/edpb_statement_2020_processingpersonaldataandcovid-19_en.pdf",
+    "original_url": "https://edpb.europa.eu/sites/edpb/files/files/file1/edpb_statement_2020_processingpersonaldataandcovid-19_en.pdf",
+    "origin": "esterno",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 215907,
+    "sha256": "bd11b1744d43348be6d596b82e760a741ae53edc55eb0c6146b86fdbe9f89a82",
+    "used_by": [
+      "hermes-governo-emergenza-covid19-rispetto-privacy-diritti-umani"
+    ]
+  },
+  {
+    "path": "media/external/edps.europa.eu/2021-06-18-edpb-edps_joint_opinion_ai_regulation_en.pdf",
+    "original_url": "https://edps.europa.eu/system/files/2021-06/2021-06-18-edpb-edps_joint_opinion_ai_regulation_en.pdf",
+    "origin": "esterno",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 502954,
+    "sha256": "c958419c6facc091e7fdb0440f8e1a525b40a519dc8597fcb7f141ce9e76e08c",
+    "used_by": [
+      "contro-gli-emendamenti-del-gruppo-epp-in-favore-della-sorveglianza-di-massa",
+      "nuovo-governo-germania-divieto-di-tecnologie-biometriche-impegno-coalizione"
+    ]
+  },
+  {
+    "path": "media/external/edri.org/copyright_proposal_article13.pdf",
+    "original_url": "https://edri.org/files/copyright/copyright_proposal_article13.pdf",
+    "origin": "esterno",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 122578,
+    "sha256": "7ca519fb2668fb109d485f9ba1a79989e1f5935c4187597d7c5246f26212876a",
+    "used_by": [
+      "riforma-europea-del-copyright-filtri-automatici-per-gli-upload-mettono-pericolo-la-nostra-democrazia"
+    ]
+  },
+  {
+    "path": "media/external/etui.org/Exercising workers rights in algorithmic managemen-8b5608fa.pdf",
+    "original_url": "https://www.etui.org/sites/default/files/2023-10/Exercising%20workers%20rights%20in%20algorithmic%20management%20systems_Lessons%20learned%20from%20the%20Glovo-Foodinho%20digital%20labour%20platform%20case_2023.pdf",
+    "origin": "esterno",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 1181244,
+    "sha256": "0324edb59c73e8052a3a805ddb85f3a0716455438a5d1dd520c5aecdec47b86c",
+    "used_by": [
+      "it/glovo-traccia-i-rider-anche-fuori-dallorario-di-lavoro"
+    ]
+  },
+  {
+    "path": "media/external/europarl.europa.eu/A-9-2021-0232-AM-001-003_EN.docx",
+    "original_url": "https://www.europarl.europa.eu/doceo/document/A-9-2021-0232-AM-001-003_EN.docx",
+    "origin": "esterno",
+    "recovered": false,
+    "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "bytes": 83546,
+    "sha256": "2d8acdff35114e40a62789a1c246402a08213393efd49d04ad2bfeb5d5c278b8",
+    "used_by": [
+      "contro-gli-emendamenti-del-gruppo-epp-in-favore-della-sorveglianza-di-massa"
+    ]
+  },
+  {
+    "path": "media/external/fairtrials.org/Automating_Injustice.pdf",
+    "original_url": "https://www.fairtrials.org/app/uploads/2021/11/Automating_Injustice.pdf",
+    "origin": "esterno",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 1800097,
+    "sha256": "00e96d3155b9b120b31f128452766d38c8c5cb3fad2c53c919797440d664cfd8",
+    "used_by": [
+      "triloghi-ue-lai-act-deve-garantire-il-rispetto-dei-diritti-del-cittadino"
+    ]
+  },
+  {
+    "path": "media/external/fra.europa.eu/fra-2019-facial-recognition-technology-focus-paper.pdf",
+    "original_url": "https://fra.europa.eu/sites/default/files/fra_uploads/fra-2019-facial-recognition-technology-focus-paper.pdf",
+    "origin": "esterno",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 1197157,
+    "sha256": "e1156d49f6911b664bc9dde6225524b94ec6937a3ef33cd0d9a93f8154540d01",
+    "used_by": [
+      "cose-il-riconoscimento-facciale-e-perche-ci-interessa"
+    ]
+  },
+  {
+    "path": "media/external/fra.europa.eu/fra-2021-fundamental-rights-survey-police-stops_en.pdf",
+    "original_url": "https://fra.europa.eu/sites/default/files/fra_uploads/fra-2021-fundamental-rights-survey-police-stops_en.pdf",
+    "origin": "esterno",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 7446219,
+    "sha256": "44d463c518156787d0c5ce4a410c419f8f8fdab29f2897e924a366ea69ea398e",
+    "used_by": [
+      "contro-gli-emendamenti-del-gruppo-epp-in-favore-della-sorveglianza-di-massa"
+    ]
+  },
+  {
+    "path": "media/external/hermescenter.org/Dichiarazione-congiunta-della-società-civile_-Gli-ba37ae50.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2020/04/Dichiarazione-congiunta-della-società-civile_-Gli-Stati-che-utilizzano-le-tecnologie-di-sorveglianza-digitale-per-combattere-la-pandemia-devono-rispettare-i-diritti-umani.pdf",
+    "origin": "esterno",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 70486,
+    "sha256": "7665527400cd1f722e2b513595e1d186073b2fa037d2474c7e32e4621a71822c",
+    "used_by": [
+      "dichiarazione-societa-civile-sorveglianza-digitale-pandemia-diritti-umani"
+    ]
+  },
+  {
+    "path": "media/external/lh4.googleusercontent.com/KmJ5TDF42CdG2BUPzssapX_xtjX8QEEAYimEQALRLKs9L3q8ai-5be37f85",
+    "original_url": "https://lh4.googleusercontent.com/KmJ5TDF42CdG2BUPzssapX_xtjX8QEEAYimEQALRLKs9L3q8aizlUhEM8VTWkJsUXKe37-PD-jPTC_zDzxdFCkn68o-V84cn7h1sJ1MjlFz4KTmoDJ9TbsKRLQff0jabJnicokip",
+    "origin": "esterno",
+    "recovered": false,
+    "mime": "application/octet-stream",
+    "bytes": 205758,
+    "sha256": "b8f0d4daa2707eada67f8236ae6b2cfe807e67f2579dc444050e49a8b83efd00",
+    "used_by": [
+      "clearview-ai-ha-monitorato-i-cittadini-italiani-garante-privacy-illegale"
+    ]
+  },
+  {
+    "path": "media/external/live.staticflickr.com/38235821841_af6d92bfe2_z.jpg",
+    "original_url": "https://live.staticflickr.com/4539/38235821841_af6d92bfe2_z.jpg",
+    "origin": "esterno",
+    "recovered": false,
+    "mime": "image/jpeg",
+    "bytes": 78364,
+    "sha256": "3ef7608a3867e12e1fc0dfc9ec1f8b55208bb65d95288055135882663c3cff28",
+    "used_by": [
+      "riforma-europea-del-copyright-filtri-automatici-per-gli-upload-mettono-pericolo-la-nostra-democrazia"
+    ]
+  },
+  {
+    "path": "media/external/ohchr.org/A.HRC.23.40_EN.pdf",
+    "original_url": "http://www.ohchr.org/Documents/HRBodies/HRCouncil/RegularSession/Session23/A.HRC.23.40_EN.pdf",
+    "origin": "esterno",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 550663,
+    "sha256": "6d1489eaa7c84deacd96328009a4b220bcec686612d7440b0764a539588e6801",
+    "used_by": [
+      "hermes-center-italy-protect-privacy-against-internet-surveillance"
+    ]
+  },
+  {
+    "path": "media/external/ohchr.org/OL-OTH-41-2018.pdf",
+    "original_url": "https://www.ohchr.org/Documents/Issues/Opinion/Legislation/OL-OTH-41-2018.pdf",
+    "origin": "esterno",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 187854,
+    "sha256": "128e2bbfdf17db2acdc15426f4b608b307ba8861b73de5f4d1a9100a56fc454d",
+    "used_by": [
+      "lettera-aperta-per-richiedere-la-soppressione-degli-articoli-11-e-13-della-direttiva-europea-sul-copyright",
+      "e-ora-di-chiamare-i-nostri-parlamentari-per-bloccare-larticolo-13-della-direttiva-copyright",
+      "unitevi-allaction-week-nella-settimana-decisiva-contro-larticolo-13"
+    ]
+  },
+  {
+    "path": "media/external/panoptykon.org/meaningful_transparency_for_people_affected_by_ai-dd34f9be.pdf",
+    "original_url": "https://panoptykon.org/sites/default/files/meaningful_transparency_for_people_affected_by_ai_art_52_aia_without_amendment_text.pdf",
+    "origin": "esterno",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 67871,
+    "sha256": "ae8faa18008ff3724e640a222439b9e26654eca33e04d93cffe100082328629d",
+    "used_by": [
+      "triloghi-ue-lai-act-deve-garantire-il-rispetto-dei-diritti-del-cittadino"
+    ]
+  },
+  {
+    "path": "media/external/privacyinternational.org/Letter Calling for Reforms to the EU Funding-1.pdf",
+    "original_url": "https://privacyinternational.org/sites/default/files/2020-11/Letter%20Calling%20for%20Reforms%20to%20the%20EU%20Funding-1.pdf",
+    "origin": "esterno",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 116483,
+    "sha256": "5f6801225393e3e4402cce3acea133e2db44477a6befc6aff9811388f0807c5d",
+    "used_by": [
+      "programmi-aiuto-eu-esportano-sorveglianza-privacy-international"
+    ]
+  },
+  {
+    "path": "media/external/regione.lombardia.it/Regione-Lombardia-Code-Review-SW-Voto-Sintesi-Executive-2017_10_06.pdf",
+    "original_url": "http://www.regione.lombardia.it/wps/wcm/connect/a12fdd40-a5c5-4cba-be5a-aabae7c4e8bb/Regione-Lombardia-Code-Review-SW-Voto-Sintesi-Executive-2017_10_06.pdf?MOD=AJPERES&CACHEID=a12fdd40-a5c5-4cba-be5a-aabae7c4e8bb",
+    "origin": "esterno",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 941798,
+    "sha256": "4019d55ccf94dc535ef84862c23fc045b4833a29aa929cd29009b15a3ebd32a2",
+    "used_by": [
+      "le-richieste-foia-sul-voto-elettronico-lombardia-2017"
+    ]
+  },
+  {
+    "path": "media/external/senato.it/Memoria_Direttore_Polizia_postale.pdf",
+    "original_url": "http://www.senato.it/application/xmanager/projects/leg17/attachments/documento_evento_procedura_commissione/files/000/005/057/Memoria_Direttore_Polizia_postale.pdf",
+    "origin": "esterno",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 1048576,
+    "sha256": "2c2193c9e4f545d3ed006f8acf15e02ddfaa62ef1f5a1a6c4f276c35418983f0",
+    "used_by": [
+      "profilazione-massiva-internet-italia-intervenga-il-garante"
+    ]
+  },
+  {
+    "path": "media/external/sign.reclaimyourface.eu/certification.pdf",
+    "original_url": "https://sign.reclaimyourface.eu/api/d/certification.pdf",
+    "origin": "esterno",
+    "recovered": true,
+    "mime": "application/pdf",
+    "bytes": 66826,
+    "sha256": "5a964087ed461a7f8b2c597e2072bec7a89c5477723d3687803af4ad3cb466c8",
+    "used_by": [
+      "chi-cosa-perche-eci-riprenditilafaccia"
+    ]
+  },
+  {
+    "path": "media/external/testing.hmbbfdi.de/2020-05-28-Press-Release_Biometric_Database.pdf",
+    "original_url": "https://testing.hmbbfdi.de/assets/pdf/2020-05-28-Press-Release_Biometric_Database.pdf",
+    "origin": "esterno",
+    "recovered": true,
+    "mime": "application/pdf",
+    "bytes": 129214,
+    "sha256": "a3c6380650f6d168cf29094bcade22f0582ec6c99b2842d99f4a3fce83d5c925",
+    "used_by": [
+      "aziende-scuole-aeroporti-riconoscimento-facciale-ovunque-reclaim-your-face"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2012/10/globaleaks.jpg",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2012/10/globaleaks.jpg",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/jpeg",
+    "bytes": 41279,
+    "sha256": "6f318b572cb7ce1bd09abd750a564a8c8a350d042fbcced4effebe5a03b100c8",
+    "used_by": [
+      "open-call-for-globaleaks-developers",
+      "cerchiamo-sviluppatori-per-software-libero-globaleaks"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2014/10/eprivacy.png",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2014/10/eprivacy.png",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/png",
+    "bytes": 2042,
+    "sha256": "a8fba42cd24415eb8499117158099f94a22de17bd8bacd303404b0e7e295a135",
+    "used_by": [
+      "e-privacy-2014-internet-delle-cose",
+      "e-privacy-2015-captatori-informatici-e-societa-civile-una-convivenza-possibile"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2015/03/anac-logo-300x68.jpg",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2015/03/anac-logo-300x68.jpg",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/jpeg",
+    "bytes": 7580,
+    "sha256": "3d487df39c0c6863446fbe11193d87daee16bcc61df2bd076743bc3f21a1d23d",
+    "used_by": [
+      "consultazione-anac-sul-whistleblowing-posizione-del-centro-hermes",
+      "consultazione-anac-sul-foia-posizione-del-centro-hermes"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2015/05/2015_05_13_tool.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2015/05/2015_05_13_tool.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 1048576,
+    "sha256": "b2a60c2e28673bccb0114bd1b6330c5550c0a72a34bac299107d5a221a7c33f2",
+    "used_by": [
+      "workshop-vicinolontano-maggio-2015-udine"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2017/04/MISElettera_aprile2017_ITA-2.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2017/04/MISElettera_aprile2017_ITA-2.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 159709,
+    "sha256": "f167b969270d09cb19bade05e1fea6525ae7a2c6d8ca4ef544ba431dc5a2d952",
+    "used_by": [
+      "sorveglianza-abbiamo-chiesto-il-riesame-della-nostra-richiesta-di-accesso-al-mise"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2017/07/Alla-ricerca-del-dato-perduto_di-Stefano-Aterno-21-luglio-2017.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2017/07/Alla-ricerca-del-dato-perduto_di-Stefano-Aterno-21-luglio-2017.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 46424,
+    "sha256": "102f03b482101744d8428f3ba468ef47a326746b0c096f18c933abb60724e7ce",
+    "used_by": [
+      "conservazione-indiscriminata-dei-dati-per-6-anni"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2017/08/Screen-Shot-2017-08-28-at-19.58.05-300x150.png",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2017/08/Screen-Shot-2017-08-28-at-19.58.05-300x150.png",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/png",
+    "bytes": 39885,
+    "sha256": "6a5df6545ded5ba425aaa4ea81e247aeb779b7999e33db38cca7e05ba8ac8f2c",
+    "used_by": [
+      "digital-whistleblowing-fund"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2017/08/globaleaks-ppint2014-10-638-300x225.jpg",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2017/08/globaleaks-ppint2014-10-638-300x225.jpg",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/jpeg",
+    "bytes": 9140,
+    "sha256": "78367c1eadb0517a2a8dfdf53dd1fd1d8c018ff437e4d963eccb6a36a3aa1aa6",
+    "used_by": [
+      "digital-whistleblowing-fund"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2017/10/Screen-Shot-2017-10-23-at-13.06.28-300x90.png",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2017/10/Screen-Shot-2017-10-23-at-13.06.28-300x90.png",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/png",
+    "bytes": 16620,
+    "sha256": "95ee9c1b3a03bec7d6eb63cdd03b5096c6aa1deb44ba2e9c2b224ec9e5a56c4d",
+    "used_by": [
+      "le-richieste-foia-sul-voto-elettronico-lombardia-2017"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2017/10/Screen-Shot-2018-02-26-at-11.29.15-300x38.png",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2017/10/Screen-Shot-2018-02-26-at-11.29.15-300x38.png",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/png",
+    "bytes": 13847,
+    "sha256": "457acebdf1cf882e8188950e3fc2bcdf3f4daf4281de4352b694413a8a2e09b8",
+    "used_by": [
+      "le-richieste-foia-sul-voto-elettronico-lombardia-2017"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2017/12/DP8q2YWX4AAAUSv-300x150.jpg",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2017/12/DP8q2YWX4AAAUSv-300x150.jpg",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/jpeg",
+    "bytes": 17789,
+    "sha256": "2c1045aff6fed5ce0e0ad1e05d99cecc0e3bd6ac385221e0d458530855fbb960",
+    "used_by": [
+      "xnet-warns-whistleblowers-aware-fake-anonymous-whistleblowing-boxes"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2018/02/151002_Service_Agreement_SMMT_IHBV-BV_Tech.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2018/02/151002_Service_Agreement_SMMT_IHBV-BV_Tech.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 1048576,
+    "sha256": "c5eee3d76363a5ce3e8c76c78b30f2c77af5c063bf76cc1227bbfd9b97c236d7",
+    "used_by": [
+      "le-richieste-foia-sul-voto-elettronico-lombardia-2017"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2018/02/160901-Amendment-to-Service-Agreement-Holding-JAS.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2018/02/160901-Amendment-to-Service-Agreement-Holding-JAS.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 182199,
+    "sha256": "e98b27be5ba885d65a5c56f8c79c6b4c68db42057b80ad01c390594b99b7af53",
+    "used_by": [
+      "le-richieste-foia-sul-voto-elettronico-lombardia-2017"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2018/02/170529-Second-Amendment-to-SA-Holding-BV-Tech-SpA_signed-1.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2018/02/170529-Second-Amendment-to-SA-Holding-BV-Tech-SpA_signed-1.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 571384,
+    "sha256": "f9f501cdd488311c249e57f401375c61e622d4fdfc300a3bb983176c73c34067",
+    "used_by": [
+      "le-richieste-foia-sul-voto-elettronico-lombardia-2017"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2018/02/170529-Second-Amendment-to-SA-Holding-JAS.doc",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2018/02/170529-Second-Amendment-to-SA-Holding-JAS.doc",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/msword",
+    "bytes": 134656,
+    "sha256": "4cc9d2a22f25a771728c7351097379679b5cd4202c3ed25541e9fcdbfb4ada7e",
+    "used_by": [
+      "le-richieste-foia-sul-voto-elettronico-lombardia-2017"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2018/02/170601-Amendment-to-Service-Agreement-Holding-Wincor-Nixdorf-Italy-Countersigned.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2018/02/170601-Amendment-to-Service-Agreement-Holding-Wincor-Nixdorf-Italy-Countersigned.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 447339,
+    "sha256": "130baa3c6d56e10054b924498b0ae8e6ef81c3e45c118345941c97f53ceb11fa",
+    "used_by": [
+      "le-richieste-foia-sul-voto-elettronico-lombardia-2017"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2018/02/20151216_Smartmatic-International-Holding-BV-Wincor-Nixdorf-Italy_Signed-Service-Agreement.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2018/02/20151216_Smartmatic-International-Holding-BV-Wincor-Nixdorf-Italy_Signed-Service-Agreement.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 1048576,
+    "sha256": "6edee7445e10120cb5809bedccab8546d002d903474d4f08fc832dd9faf452c4",
+    "used_by": [
+      "le-richieste-foia-sul-voto-elettronico-lombardia-2017"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2018/02/20160831-Smartmatic-IHBV-BVTech-Extension.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2018/02/20160831-Smartmatic-IHBV-BVTech-Extension.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 717498,
+    "sha256": "3df3b66ee2841393f798a1d58cde6300dd8208043883a5e768d2c38a22bfa009",
+    "used_by": [
+      "le-richieste-foia-sul-voto-elettronico-lombardia-2017"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2018/02/C.E.-Referendum.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2018/02/C.E.-Referendum.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 102836,
+    "sha256": "5cd79518fa28f7f9d09542400511c7dabd8a6bd600d54b9ae3cf91ce37b5263d",
+    "used_by": [
+      "le-richieste-foia-sul-voto-elettronico-lombardia-2017"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2018/02/ICTSecurity_whistleblowing_Rodolfi-v5.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2018/02/ICTSecurity_whistleblowing_Rodolfi-v5.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 2539253,
+    "sha256": "362c743da33a1258b3454c4ece249ade5a53653c47590132332b64cfacbe4a4b",
+    "used_by": [
+      "il-ruolo-del-whistleblowing-nella-cybersecurity-27001"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2018/02/SA¨_image2015-11-30-105358.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2018/02/SA¨_image2015-11-30-105358.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 5048473,
+    "sha256": "ae9ff7c4064892a03ed525669e806eda61ae4044c68bbc13c30b9f100e428536",
+    "used_by": [
+      "le-richieste-foia-sul-voto-elettronico-lombardia-2017"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2018/02/SD0461_15Samrtmatic-Voting-Machine.doc",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2018/02/SD0461_15Samrtmatic-Voting-Machine.doc",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/msword",
+    "bytes": 445952,
+    "sha256": "1eb53b021379604143ec9dd876bef0891d4d9a1899be87019ba47d6e8dcd0b2d",
+    "used_by": [
+      "le-richieste-foia-sul-voto-elettronico-lombardia-2017"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2018/04/tWmj_MG7_400x400-300x300.jpg",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2018/04/tWmj_MG7_400x400-300x300.jpg",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/jpeg",
+    "bytes": 11275,
+    "sha256": "bf55f2b909f5dec84e802025d662afd6a270725ef8b1e68d5691835aaa852ac5",
+    "used_by": [
+      "announcement-hermes-center-members-and-fellows-participate-at-the-international-journalism-festival-2018-ijf18"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2018/06/STOPdataRetention-Open-Letter.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2018/06/STOPdataRetention-Open-Letter.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 785915,
+    "sha256": "6a097f5807d93bb0794e9d8df856849bdfbff66edf9864303db40aecc2a1a2fb",
+    "used_by": [
+      "data-retention-hermes-center-si-unisce-ad-oltre-60-ong-nellinvio-di-denunce-contro-la-conservazione-illegale-di-dati"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2018/12/20181204-CivilSociety_letter_TERREG.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2018/12/20181204-CivilSociety_letter_TERREG.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 1190672,
+    "sha256": "ceeae2140ccd84972bd05177ee9e2f25e9676e4844d7d0ceb0adbac46ab9740f",
+    "used_by": [
+      "regolamento-sui-contenuti-terroristici-associazioni-per-i-diritti-civili-sollevano-preoccupazioni-importanti"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2018/12/FINAL_Letter-ePrivacy-Regulation.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2018/12/FINAL_Letter-ePrivacy-Regulation.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 579678,
+    "sha256": "6c84286cee20d64946f40a863218541f76406c01d64a7d42c711f3d5e3226af3",
+    "used_by": [
+      "lettera-aperta-al-mise-per-garantire-la-corretta-finalizzazione-del-regolamento-europeo-eprivacy"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2018/12/ePrivacy-Reform-Joint-letter-Consumer-organisations-NGOs-and-internet-companies.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2018/12/ePrivacy-Reform-Joint-letter-Consumer-organisations-NGOs-and-internet-companies.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 270370,
+    "sha256": "6b132b7de197211d8eb2791794ebedb048c830902ff049b9c0068a1bff5995f3",
+    "used_by": [
+      "gruppi-di-consumatori-ong-e-industrie-chiedono-congiuntamente-al-consiglio-dellue-di-promuovere-la-riforma-eprivacy"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2019/01/20190122_Open_Letter_Council-final.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2019/01/20190122_Open_Letter_Council-final.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 858591,
+    "sha256": "dd732130a9756a897010197b791092c5a1f563ec735eba217a351358e00b6623",
+    "used_by": [
+      "lettera-aperta-per-richiedere-la-soppressione-degli-articoli-11-e-13-della-direttiva-europea-sul-copyright"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2019/02/20190205-Civil-Society-Letter-to-EP-Terrorism-Database.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2019/02/20190205-Civil-Society-Letter-to-EP-Terrorism-Database.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 94651,
+    "sha256": "41f8e92d4eb00dc9d5966f26c93122c86b37465bb3d5391ac9f918d0aa26a716",
+    "used_by": [
+      "lettera-aperta-sul-database-per-i-contenuti-terroristici"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2019/03/ActionWeek-1024x576.png",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2019/03/ActionWeek-1024x576.png",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/png",
+    "bytes": 713612,
+    "sha256": "54106e82ed7948ae5693cd2c57448e0327ebd5b6bedd73c675573419c246c509",
+    "used_by": [
+      "unitevi-allaction-week-nella-settimana-decisiva-contro-larticolo-13"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2019/03/pledge_if_wide-1-1024x576.png",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2019/03/pledge_if_wide-1-1024x576.png",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/png",
+    "bytes": 85402,
+    "sha256": "4f3a6e8c5b04cb39698746512802347361b9a982bea890ed9ae9972faa6c615e",
+    "used_by": [
+      "e-ora-di-chiamare-i-nostri-parlamentari-per-bloccare-larticolo-13-della-direttiva-copyright"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2019/07/dwf-greenwhiteupdated.png",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2019/07/dwf-greenwhiteupdated.png",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/png",
+    "bytes": 137930,
+    "sha256": "d1b18c7005d25d7129691a4f6e50a69bca876c4f168eaf0b5d855ce00a630c6a",
+    "used_by": [
+      "digital-whistleblowing-fund-call-for-applications-round-2"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2019/08/EAT-THE-HANDBOOK.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2019/08/EAT-THE-HANDBOOK.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 398242,
+    "sha256": "f3194ce54818f1bf7a58f83cabf7d1718bca48d1c46c25f3f9fdc0dd1f8f6201",
+    "used_by": [
+      "il-progetto-eat-e-realta-10-paesi-europei-avranno-una-piattaforma-sicura-e-anonima-per-il-whistleblowing-basata-su-globaleaks"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2019/09/EELJbemXUAMcp6q-1024x768.jpg",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2019/09/EELJbemXUAMcp6q-1024x768.jpg",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/jpeg",
+    "bytes": 62258,
+    "sha256": "991ba9c135b229bd4b5734e96ef9d1f6be51a030a8e355f6fce79eb3f5f70608",
+    "used_by": [
+      "conferenza-win-sul-whistleblowing-quali-best-practice-per-la-protezione-dei-segnalanti"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2019/09/EESP2WkWwAAv3k6-1-1024x768.jpg",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2019/09/EESP2WkWwAAv3k6-1-1024x768.jpg",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/jpeg",
+    "bytes": 79087,
+    "sha256": "55442af79ee5c9e17d1a59d39cc679a88ff9edee3470283bf4005a771a7c1cff",
+    "used_by": [
+      "conferenza-win-sul-whistleblowing-quali-best-practice-per-la-protezione-dei-segnalanti"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2019/10/FB_wbpa2019_22-1-1024x538.png",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2019/10/FB_wbpa2019_22-1-1024x538.png",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/png",
+    "bytes": 479515,
+    "sha256": "52731d36befc45be1a834fde668f901e23fd150f435ec729960a408170e44345",
+    "used_by": [
+      "il-software-globaleaks-festeggia-il-primo-anno-a-supporto-del-whistleblowing-anonimo-nella-pa"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2020/01/copyright-3360802_1920-1024x614.jpg",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2020/01/copyright-3360802_1920-1024x614.jpg",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/jpeg",
+    "bytes": 64097,
+    "sha256": "5a2afcc430a161780a0302f138dbe9ee435fcb933fbc60f34bc9ec7e489a3fe1",
+    "used_by": [
+      "direttiva-copyright-lettera-aperta-linee-guida"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2020/01/open_letter_copyright_20200115.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2020/01/open_letter_copyright_20200115.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 69984,
+    "sha256": "d83044405d249fafa6a50ff0a84636a0271acd9752d742d67136308af80e9d6e",
+    "used_by": [
+      "direttiva-copyright-lettera-aperta-linee-guida"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2020/02/IMG_4427-1024x524.jpg",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2020/02/IMG_4427-1024x524.jpg",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/jpeg",
+    "bytes": 55440,
+    "sha256": "fa9d7f3a27ee54746cd23b26e22b548bc4234897b7759b8f450a425c9fcce6b3",
+    "used_by": [
+      "whistleblowing-un-impegno-comune-per-recepire-e-applicare-la-direttiva-europea-importante-tutelare-anche-chi-sta-attorno-ai-segnalanti-e-cioe-i-media-e-la-societa-civile"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2020/03/HERMES-—-Risposta-all-emergenza-COVID-19-nel-pieno-rispetto-dei-diritti-umani.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2020/03/HERMES-—-Risposta-all-emergenza-COVID-19-nel-pieno-rispetto-dei-diritti-umani.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 95917,
+    "sha256": "8c905a08e2a31a0fd3383aa7a254a57311e0e18535ce76bd9d769ceb661774ee",
+    "used_by": [
+      "hermes-governo-emergenza-covid19-rispetto-privacy-diritti-umani"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2020/03/TERREG-Open-Letter-PDFs.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2020/03/TERREG-Open-Letter-PDFs.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 226882,
+    "sha256": "c7755c093d950df863beae3542950aca5eacba9b22b80ce34e8342f08accf829",
+    "used_by": [
+      "lettera-aperta-la-societa-civile-esorta-gli-stati-membri-a-rispettare-i-principi-di-legge-nel-regolamento-online-sui-contenuti-terroristici"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2020/04/Joint-statement-COVID-19-and-surveillance-FINAL1.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2020/04/Joint-statement-COVID-19-and-surveillance-FINAL1.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 65883,
+    "sha256": "ddfe4744fd1ef97b6ad32c4bc497f3757457d501342c7dff15eb00cdbd5e38e1",
+    "used_by": [
+      "dichiarazione-societa-civile-sorveglianza-digitale-pandemia-diritti-umani"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2020/04/MAR20-GLO52_Joint-statement-COVID-19-and-surveillance_ES1.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2020/04/MAR20-GLO52_Joint-statement-COVID-19-and-surveillance_ES1.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 68768,
+    "sha256": "4da86af015db53b699624b545bd56db72b40ad915601efec677ca094b670256a",
+    "used_by": [
+      "dichiarazione-societa-civile-sorveglianza-digitale-pandemia-diritti-umani"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2020/04/MAR20-GLO52_ext_FR.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2020/04/MAR20-GLO52_ext_FR.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 168675,
+    "sha256": "373ad455e05a072b13fe72b78676055e66bee0262e3c5ac2fa9fbb2ad332494b",
+    "used_by": [
+      "dichiarazione-societa-civile-sorveglianza-digitale-pandemia-diritti-umani"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2020/05/HellenicPoliceReply_ClearViewAI_HomoDigitalis.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2020/05/HellenicPoliceReply_ClearViewAI_HomoDigitalis.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 638991,
+    "sha256": "d5822b585af0adfaa21759ef4654c97c2660c9cfd2118eab8c79edfba0517c97",
+    "used_by": [
+      "centro-hermes-e-altre-associazioni-inviano-segnalazioni-reclami-contro-clearview-ai"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2020/05/Paper-Ban-Biometric-Mass-Surveillance.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2020/05/Paper-Ban-Biometric-Mass-Surveillance.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 468436,
+    "sha256": "dd177c7f644ef5ab7427412b196a05099e82b5982743475b63e28f1a73e165b8",
+    "used_by": [
+      "lancio-campagna-reclaimyourface",
+      "riconosco-la-tua-voce-ma-tu-non-mi-conosci-le-vite-degli-altri",
+      "la-societa-civile-chiede-punti-fermi-nella-proposta-dellunione-europea-sullintelligenza-artificiale",
+      "la-soluzione-innovativa-di-torino-argo"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2020/06/DWF-FB2-300x251.png",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2020/06/DWF-FB2-300x251.png",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/png",
+    "bytes": 35244,
+    "sha256": "5f897ee0dfbc4bd41e4a55c4a2d7a523e0d58fd1f3773b7e071a6dea84912f44",
+    "used_by": [
+      "digital-whistleblowing-fund-call-for-applications-round-3"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2020/06/Screenshot_2020-06-18-Alerte-corruption-une-nouvelle-plateforme-de-signalement-sécurisée-1024x576.png",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2020/06/Screenshot_2020-06-18-Alerte-corruption-une-nouvelle-plateforme-de-signalement-sécurisée-1024x576.png",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/png",
+    "bytes": 167210,
+    "sha256": "a87050f69dbd17b4be0def81ad85645e1d0c2829fe0a9077b7f7afc96bbde8b4",
+    "used_by": [
+      "supporting-diverse-initiatives-in-europe-through-the-use-of-secure-whistleblowing-platforms"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2020/06/dwf_5-1024x556.png",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2020/06/dwf_5-1024x556.png",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/png",
+    "bytes": 70312,
+    "sha256": "f6a5d4db022568a9746666ff0fd729a61295276acd5da9929b83a0fb9d7177e2",
+    "used_by": [
+      "supporting-diverse-initiatives-in-europe-through-the-use-of-secure-whistleblowing-platforms"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2020/06/dwf_9-1024x556.png",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2020/06/dwf_9-1024x556.png",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/png",
+    "bytes": 86416,
+    "sha256": "07c2f54c15c176baa15b0cf9b534ea94236d934592cdd9a00565321e3d33b40f",
+    "used_by": [
+      "supporting-diverse-initiatives-in-europe-through-the-use-of-secure-whistleblowing-platforms"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2020/11/1834-1024-1024x572.png",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2020/11/1834-1024-1024x572.png",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/png",
+    "bytes": 319763,
+    "sha256": "a4cb8ed2ec2e718d380db3413e1b07ba0c4db6366df989cbbd70afd44e65d3fe",
+    "used_by": [
+      "lancio-campagna-reclaimyourface"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2020/11/1834-1024.png",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2020/11/1834-1024.png",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/png",
+    "bytes": 1139198,
+    "sha256": "e9ae41a7da5362c3effd937e8839e73c138531859f74ee1f8be8be1c075d6d09",
+    "used_by": [
+      "lancio-campagna-reclaimyourface"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2020/11/collage_3-1024x576.jpg",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2020/11/collage_3-1024x576.jpg",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/jpeg",
+    "bytes": 96076,
+    "sha256": "0d4e72dda55354dad73bc9193e3caa0e8177448d8be4cbea5ac2d90f4282a8fc",
+    "used_by": [
+      "pedinati-in-citta-reclaim-your-face",
+      "la-soluzione-innovativa-di-torino-argo"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2020/11/collage_3.jpg",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2020/11/collage_3.jpg",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/jpeg",
+    "bytes": 624652,
+    "sha256": "bb4aa708b0aeb857199977031695890450be6e9a5341eb70613919a4e08d8bdb",
+    "used_by": [
+      "la-soluzione-innovativa-di-torino-argo"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2020/12/collage_6psd-copy-1024x576.jpg",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2020/12/collage_6psd-copy-1024x576.jpg",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/jpeg",
+    "bytes": 93954,
+    "sha256": "4a808b068532dfb1486d8c9d90c9655a4e7490c8bc706c6bbf322d0ab4fb5dc7",
+    "used_by": [
+      "hey-google-riconosci-la-mia-voce"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2021/01/EDRi-open-letter-AI-red-lines.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/01/EDRi-open-letter-AI-red-lines.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 82969,
+    "sha256": "bcafb8f2bc1b19dca2badc6e2442ae15997e86c35806a6e04257b03e076c63b8",
+    "used_by": [
+      "la-societa-civile-chiede-punti-fermi-nella-proposta-dellunione-europea-sullintelligenza-artificiale"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2021/01/Segnalazione-Garante-Privacy-—-Progetto-ARGO-Torino.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/01/Segnalazione-Garante-Privacy-—-Progetto-ARGO-Torino.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 133547,
+    "sha256": "b113c4673d22cb81fe2c092373dc02b1c60643a3378eb139b9f4d77688764a5e",
+    "used_by": [
+      "la-soluzione-innovativa-di-torino-argo"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2021/01/collage_7-1024x576.jpg",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/01/collage_7-1024x576.jpg",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/jpeg",
+    "bytes": 130562,
+    "sha256": "d63861c8ae51b7272403e2f35678f86b6f67ec07365bd24ad850a5728d1687a0",
+    "used_by": [
+      "la-soluzione-innovativa-di-torino-argo"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2021/01/collage_7.jpg",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/01/collage_7.jpg",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/jpeg",
+    "bytes": 790619,
+    "sha256": "fdb58b631abcae5e914a2d10d4bfeb63805b24ed7d0786e8b8d8e69033a72c6a",
+    "used_by": [
+      "la-soluzione-innovativa-di-torino-argo"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2021/02/banner-italiano-RYF-ECI.jpeg",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/02/banner-italiano-RYF-ECI.jpeg",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/jpeg",
+    "bytes": 298182,
+    "sha256": "e2c2a15d08d3f1bff6c71c6f36267f469c3fbc84ab30895064aa4500235e9641",
+    "used_by": [
+      "vivere-in-una-paperbagsociety",
+      "nuovo-governo-germania-divieto-di-tecnologie-biometriche-impegno-coalizione"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2021/02/cropped-0.-ECI-MAIN_launch_Sharepic-1024x614.png",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/02/cropped-0.-ECI-MAIN_launch_Sharepic-1024x614.png",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/png",
+    "bytes": 12890,
+    "sha256": "1cca498904b87c8b14e4100203f31d6bd9b9cac47da3b99ec80f6042c91b47f9",
+    "used_by": [
+      "aziende-scuole-aeroporti-riconoscimento-facciale-ovunque-reclaim-your-face"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2021/03/MEP_TERREG_Letter_DE.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/03/MEP_TERREG_Letter_DE.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 516681,
+    "sha256": "0c616a21a3c0e3bcb81d3fd1a20f7fb196ba7800ecad5757448d6387baa9ec53",
+    "used_by": [
+      "61-associazioni-terreg-parlamento-europeo-proteggere-liberta-espressione"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2021/03/MEP_TERREG_Letter_EN.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/03/MEP_TERREG_Letter_EN.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 507679,
+    "sha256": "63aaf0ad6699e5f083d76d24cc42fd73b90bf3b2ad7c312a1db98e2e681e87bd",
+    "used_by": [
+      "61-associazioni-terreg-parlamento-europeo-proteggere-liberta-espressione"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2021/03/MEP_TERREG_Letter_ES.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/03/MEP_TERREG_Letter_ES.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 509198,
+    "sha256": "1c2ff0e8f0c7451bb28638ce4d805a780c20d0331040f8e31867f3a902a00ea3",
+    "used_by": [
+      "61-associazioni-terreg-parlamento-europeo-proteggere-liberta-espressione"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2021/03/MEP_TERREG_Letter_FR_final.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/03/MEP_TERREG_Letter_FR_final.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 490214,
+    "sha256": "d6706d54780aa6a31318b8f15e7e8a1cba18bced6673191d04d5a2d8ed42ca56",
+    "used_by": [
+      "61-associazioni-terreg-parlamento-europeo-proteggere-liberta-espressione"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2021/03/MEP_TERREG_Letter_IT.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/03/MEP_TERREG_Letter_IT.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 513481,
+    "sha256": "90957181b8ea5909ea1b744e2d457456675f4217729cd57d178308144b8b9d8f",
+    "used_by": [
+      "61-associazioni-terreg-parlamento-europeo-proteggere-liberta-espressione"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2021/03/MEP_TERREG_Letter_NL.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/03/MEP_TERREG_Letter_NL.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 499935,
+    "sha256": "a1c3c2a57b70b2c7cf63204b13a6ec0e0fe37dd843fe7b2ca26e143b7027f79c",
+    "used_by": [
+      "61-associazioni-terreg-parlamento-europeo-proteggere-liberta-espressione"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2021/03/MEP_TERREG_Letter_PL.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/03/MEP_TERREG_Letter_PL.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 516956,
+    "sha256": "5fa77fb8ef86181cdee432f30a69045aae52187034641562660c6522d7ef0ab0",
+    "used_by": [
+      "61-associazioni-terreg-parlamento-europeo-proteggere-liberta-espressione"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2021/03/MEP_TERREG_Letter_RO.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/03/MEP_TERREG_Letter_RO.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 502216,
+    "sha256": "05ba548001d2b819c5e94ba4155d28426f227ba44a33d8ff95d99e347af60472",
+    "used_by": [
+      "61-associazioni-terreg-parlamento-europeo-proteggere-liberta-espressione"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2021/03/MEP_TERREG_Letter_SW.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/03/MEP_TERREG_Letter_SW.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 499573,
+    "sha256": "2803b149709ba45829aacd1978fa6a0192f871d17a1fb38ba86a458a2c2f54f2",
+    "used_by": [
+      "61-associazioni-terreg-parlamento-europeo-proteggere-liberta-espressione"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2021/05/Hermes-Center-Segnalazione-Clearview-AI-Inc.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/05/Hermes-Center-Segnalazione-Clearview-AI-Inc.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 853736,
+    "sha256": "72d8352f92dc9105ee53211f5a058cdac968a46fceff6fa478f33f0d9353e10b",
+    "used_by": [
+      "centro-hermes-e-altre-associazioni-inviano-segnalazioni-reclami-contro-clearview-ai",
+      "clearview-ai-ha-monitorato-i-cittadini-italiani-garante-privacy-illegale"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2021/06/VERSIONE-CORRETTA_Centro-Hermes-Segnalazione-Garante-Privacy-ShareArt.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/06/VERSIONE-CORRETTA_Centro-Hermes-Segnalazione-Garante-Privacy-ShareArt.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 127722,
+    "sha256": "f8366fd9f790392ba5fd324954f6ee44befcc4f6c51da2c423fca7a9da2db39b",
+    "used_by": [
+      "shareart-e-rilevamento-del-volto-dei-visitatori-nei-musei-inviata-segnalazione-al-garante-privacy"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2021/07/ANNEX-III-B_IT-IT.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/07/ANNEX-III-B_IT-IT.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 37874,
+    "sha256": "1e15f1ef7bf3ea07616ba6b25b3bdcd599dbfacd92a5d46bb544ef6f603e192e",
+    "used_by": [
+      "chi-cosa-perche-eci-riprenditilafaccia"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2021/08/01_Ongoing_TW_EN.png",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/08/01_Ongoing_TW_EN.png",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/png",
+    "bytes": 14074,
+    "sha256": "76fff959c68f1c350ba6d32fe9b0a760f01bcc03d43479defaa521e144c20c16",
+    "used_by": [
+      "chi-cosa-perche-eci-riprenditilafaccia"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2021/08/02_Make_diff_TW.png",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/08/02_Make_diff_TW.png",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/png",
+    "bytes": 13670,
+    "sha256": "297c31c82d752a20c8d6498235f8ed8ba82935ff545c3407fe97ba4977659f9f",
+    "used_by": [
+      "chi-cosa-perche-eci-riprenditilafaccia"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2021/08/05_Ongoing_TW_EN.png",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/08/05_Ongoing_TW_EN.png",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/png",
+    "bytes": 13194,
+    "sha256": "f82f8cc4e77dd52f8d612195ff494fb9adf5cd091fa97e4b474d57c02f6a0dc0",
+    "used_by": [
+      "chi-cosa-perche-eci-riprenditilafaccia"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2021/08/06_Ongoing_TW_EN.png",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/08/06_Ongoing_TW_EN.png",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/png",
+    "bytes": 11255,
+    "sha256": "7c9d1d68fe5cf742048478da05f5ba50a3e86e0110b716f9c6278ab151304d70",
+    "used_by": [
+      "chi-cosa-perche-eci-riprenditilafaccia"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2021/10/Civil-society-open-letter-ai-criminal-law-FINAL.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/10/Civil-society-open-letter-ai-criminal-law-FINAL.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 72312,
+    "sha256": "952fca809db26e0ee662feeb86a66bef870ce080e4fe84f01eae55e0976c32bf",
+    "used_by": [
+      "contro-gli-emendamenti-del-gruppo-epp-in-favore-della-sorveglianza-di-massa"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2021/11/MONITOr-1024x553.jpg",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/11/MONITOr-1024x553.jpg",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/jpeg",
+    "bytes": 54573,
+    "sha256": "f073bfa7ed1415f39ec52c5a8e1741fc1a03e114d13871476e4ed27e7a546104",
+    "used_by": [
+      "it/monitor-numero0",
+      "monitor-numero-1",
+      "monitor-numero-3-febbraio-2022"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2021/11/MONITOr.jpg",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/11/MONITOr.jpg",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/jpeg",
+    "bytes": 142911,
+    "sha256": "7ea4d416f7b57d9e4ccfa2e3bd0734036336568fd996f7abc5c397e7323b4876",
+    "used_by": [
+      "it/monitor-numero0",
+      "monitor-numero-1",
+      "monitor-numero-3-febbraio-2022"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2021/11/Schermata-2021-11-05-alle-15.52.47.png",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/11/Schermata-2021-11-05-alle-15.52.47.png",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/png",
+    "bytes": 24824,
+    "sha256": "c1452e9f020bea5d95f310ce3f63d159c1a17fd6a6d8dc1860b9e54aa81b967e",
+    "used_by": [
+      "it/monitor-numero0",
+      "monitor-numero-3-febbraio-2022"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2021/11/Schermata-2021-11-05-alle-16.30.02.png",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/11/Schermata-2021-11-05-alle-16.30.02.png",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/png",
+    "bytes": 59217,
+    "sha256": "9588549a353bd70bc1ca38318851b9d2872dc52d20b13b5513a2fba4d06e4493",
+    "used_by": [
+      "it/monitor-numero0",
+      "monitor-numero-1",
+      "monitor-numero-2-gennaio-2022"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2021/11/WhatsApp-Image-2021-11-05-at-14.52.48.jpeg",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/11/WhatsApp-Image-2021-11-05-at-14.52.48.jpeg",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/jpeg",
+    "bytes": 167121,
+    "sha256": "c2701f08dfeefe794a17c16273382a6b7aec1556b5a3625a297a3398d043f663",
+    "used_by": [
+      "it/monitor-numero0",
+      "monitor-numero-1",
+      "monitor-numero-3-febbraio-2022"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2021/12/51697461112_f3424feb97_c.jpg",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/12/51697461112_f3424feb97_c.jpg",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/jpeg",
+    "bytes": 227265,
+    "sha256": "e4f8e53950d57956915d5c61d2ac82e1336bd6f02b317fd40a8e0850e1cde7e4",
+    "used_by": [
+      "monitor-numero-1"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2021/12/Italy-wins-banner-1200x350-c-default-1024x299.png",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/12/Italy-wins-banner-1200x350-c-default-1024x299.png",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/png",
+    "bytes": 251151,
+    "sha256": "1c248fd2cd35753ff28411b4651b601544bcdaa72caf0b0bb4dd1043d4002096",
+    "used_by": [
+      "clearview-ai-ha-monitorato-i-cittadini-italiani-garante-privacy-illegale"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2021/12/Italy-wins-banner-1200x350-c-default.png",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/12/Italy-wins-banner-1200x350-c-default.png",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/png",
+    "bytes": 355221,
+    "sha256": "cbf96a442ee1beffe7966d19f960ecd8629d5dfbdc554f3429b9cab5a2c32b4c",
+    "used_by": [
+      "italia-moratoria-riconoscimento-facciale-ban-divieto",
+      "clearview-ai-ha-monitorato-i-cittadini-italiani-garante-privacy-illegale"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2021/12/Schermata-2021-12-06-alle-13.58.15-2-Large-1024x375.png",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/12/Schermata-2021-12-06-alle-13.58.15-2-Large-1024x375.png",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/png",
+    "bytes": 383567,
+    "sha256": "8ea00f6b5580e9b9b71fc4a5b85421221370441ca50c03123bb1905349600e6b",
+    "used_by": [
+      "monitor-numero-1"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2021/12/header-logo-youchoose70px-emailsignature.png",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/12/header-logo-youchoose70px-emailsignature.png",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/png",
+    "bytes": 10280,
+    "sha256": "24e7b2f49aee2ec6df06647e547712115d315f1697145df0bad5fa4246462b94",
+    "used_by": [
+      "monitor-numero-1"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2022/02/New-volunteers-2-Mailing-final-768x1024.png",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2022/02/New-volunteers-2-Mailing-final-768x1024.png",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/png",
+    "bytes": 135157,
+    "sha256": "f85793a25db10b3c76b6f2d9604da2b27e61c25acaec3dbd6204c80c83082041",
+    "used_by": [
+      "monitor-numero-2-gennaio-2022"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2022/02/New-volunteers-2-Mailing-final.png",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2022/02/New-volunteers-2-Mailing-final.png",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/png",
+    "bytes": 123696,
+    "sha256": "381b8662f6c06cc023204b7c1af85ed0cc3af9530797f29a68aa5bdf14e0e047",
+    "used_by": [
+      "monitor-numero-2-gennaio-2022"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2022/02/WhatsApp-Image-2021-11-05-at-14.52.48.jpeg",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2022/02/WhatsApp-Image-2021-11-05-at-14.52.48.jpeg",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/jpeg",
+    "bytes": 167121,
+    "sha256": "c2701f08dfeefe794a17c16273382a6b7aec1556b5a3625a297a3398d043f663",
+    "used_by": [
+      "monitor-numero-2-gennaio-2022"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2022/03/FNa09mnXwAYgLEg-1-1024x576.jpeg",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2022/03/FNa09mnXwAYgLEg-1-1024x576.jpeg",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/jpeg",
+    "bytes": 56082,
+    "sha256": "9868f015b74ef1a4dd0b1716e0941ab076fee59f38a4ea7f0d573466072c442b",
+    "used_by": [
+      "monitor-numero-3-febbraio-2022"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2022/03/FNa09mnXwAYgLEg-1.jpeg",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2022/03/FNa09mnXwAYgLEg-1.jpeg",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/jpeg",
+    "bytes": 165198,
+    "sha256": "a5325e347375badff529a8faf55c2d1551422e8066c51d671a41dac4d12c431f",
+    "used_by": [
+      "monitor-numero-3-febbraio-2022"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2022/03/FNa09mnXwAYgLEg-1024x576.jpeg",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2022/03/FNa09mnXwAYgLEg-1024x576.jpeg",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/jpeg",
+    "bytes": 56082,
+    "sha256": "9868f015b74ef1a4dd0b1716e0941ab076fee59f38a4ea7f0d573466072c442b",
+    "used_by": [
+      "clearview-ai-ha-monitorato-i-cittadini-italiani-garante-privacy-illegale"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2022/03/FNa09mnXwAYgLEg.jpeg",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2022/03/FNa09mnXwAYgLEg.jpeg",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/jpeg",
+    "bytes": 165198,
+    "sha256": "a5325e347375badff529a8faf55c2d1551422e8066c51d671a41dac4d12c431f",
+    "used_by": [
+      "clearview-ai-ha-monitorato-i-cittadini-italiani-garante-privacy-illegale"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2022/03/IMG-GUIDA2.2021-11-22-DP-Movie-Stills-14-1024x427.jpg",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2022/03/IMG-GUIDA2.2021-11-22-DP-Movie-Stills-14-1024x427.jpg",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/jpeg",
+    "bytes": 17885,
+    "sha256": "d88aadd4b81be98cc9493764ca3a141527d668d7bd941067c17bbc19bf09142f",
+    "used_by": [
+      "monitor-numero-3-febbraio-2022"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2022/03/M-1-1024x1024.jpg",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2022/03/M-1-1024x1024.jpg",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/jpeg",
+    "bytes": 31534,
+    "sha256": "5e37a0bb05e26b75004866c9d28d00c770044b66f5da53a794fdf779da6c17c6",
+    "used_by": [
+      "monitor-numero-3-febbraio-2022"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2022/05/Amendments-to-the-AI-Acts-treatment-of-biometric-categorisation.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2022/05/Amendments-to-the-AI-Acts-treatment-of-biometric-categorisation.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 101819,
+    "sha256": "a7fe883ac5ce9415218ac83a4fa2685f16832bc080bdcd961c6cc526385033d7",
+    "used_by": [
+      "triloghi-ue-lai-act-deve-garantire-il-rispetto-dei-diritti-del-cittadino"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2022/05/Obligations-on-users-AIA-Amendments-17022022.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2022/05/Obligations-on-users-AIA-Amendments-17022022.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 56412,
+    "sha256": "a96488390da2803643387913b08e2e429c7701bbafc7c5c1742eedffcea7e3fe",
+    "used_by": [
+      "triloghi-ue-lai-act-deve-garantire-il-rispetto-dei-diritti-del-cittadino"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2022/05/Prohibit-RBI-in-publicly-accessible-spaces-Civil-Society-Amendments-AI-Act-FINAL.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2022/05/Prohibit-RBI-in-publicly-accessible-spaces-Civil-Society-Amendments-AI-Act-FINAL.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 141686,
+    "sha256": "489c5c9f1ad88f12d6da7176843144dd5dd8f181f73bf822dc692d19206d5a85",
+    "used_by": [
+      "triloghi-ue-lai-act-deve-garantire-il-rispetto-dei-diritti-del-cittadino"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2022/05/Prohibit-emotion-recognition-in-the-Artificial-Intelligence-Act.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2022/05/Prohibit-emotion-recognition-in-the-Artificial-Intelligence-Act.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 118822,
+    "sha256": "cfbcae8e4ad88502e967fc2f0097b07fa02e24f09e4eab4c2e5a9d0b5917c049",
+    "used_by": [
+      "triloghi-ue-lai-act-deve-garantire-il-rispetto-dei-diritti-del-cittadino"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2022/05/Rights-and-Redress-AIA-Amendments-for-online.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2022/05/Rights-and-Redress-AIA-Amendments-for-online.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 40443,
+    "sha256": "54fc9e85489084b44e595618d18377b06ae689e4c3cb6a2d2978ece70327d9f1",
+    "used_by": [
+      "triloghi-ue-lai-act-deve-garantire-il-rispetto-dei-diritti-del-cittadino"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2023/01/copertina-report-jpeg-2.jpg",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2023/01/copertina-report-jpeg-2.jpg",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/jpeg",
+    "bytes": 109285,
+    "sha256": "cc6a2e07af4ad6409be8a80a86a436eff51591108efcb3a235448b936f6db24f",
+    "used_by": [
+      "it/digitalizzazione-escludente"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2023/06/spying-through-window-with-magnifying-glass.jpg",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2023/06/spying-through-window-with-magnifying-glass.jpg",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "image/jpeg",
+    "bytes": 62920,
+    "sha256": "3412b0f6514e2272b95117764ed5b6d71feac9e98adb9c2dd2d5ba4ad1952798",
+    "used_by": [
+      "riconoscimento-facciale-il-divieto-nei-luoghi-pubblici-durera-fino-al-2025-preoccupano-le-eccezioni"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2023/11/Lettera_AI_Act.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2023/11/Lettera_AI_Act.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 57664,
+    "sha256": "f19bc8eb8961552b873bc57e6cebdd5c83405c60f2fbc585373250a2dea00e2e",
+    "used_by": [
+      "lai-act-e-a-rischio-e-la-colpa-e-anche-del-governo-italiano"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2024/03/Autorita-AI-Ita-2024-1.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2024/03/Autorita-AI-Ita-2024-1.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 635360,
+    "sha256": "ba6897160f95d52e98cb462da22d72ce3de59fd5688155ad134029ff0703c3d0",
+    "used_by": [
+      "it/autorita-nazionale-per-lintelligenza-artificiale-le-nostre-proposte"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/2024/03/Lettera-aperta-Autorita-indipendente-per-AI-governance.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2024/03/Lettera-aperta-Autorita-indipendente-per-AI-governance.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 67801,
+    "sha256": "6b9df41bd753d6b3a1e9d268e33c1abe016088a549c06941a489c43f2749ecad",
+    "used_by": [
+      "intelligenza-artificiale-lettera-aperta-alle-istituzioni-per-una-governance-indipendente-e-inclusiva"
+    ]
+  },
+  {
+    "path": "media/wp-content/uploads/Moratoria-riconoscimento-facciale.pdf",
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/Moratoria-riconoscimento-facciale.pdf",
+    "origin": "hermescenter",
+    "recovered": false,
+    "mime": "application/pdf",
+    "bytes": 13622,
+    "sha256": "4c290b3dddf40a17cd09934c9d096b8d213bc30783fb6ffcb27f211a2f51d75d",
+    "used_by": [
+      "primi-importanti-risultati-a-due-mesi-dal-lancio-di-riprenditi-la-faccia",
+      "it/monitor-numero0"
+    ]
+  }
+]

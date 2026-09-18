@@ -1,0 +1,46 @@
+{
+  "id": "lancio-campagna-reclaimyourface",
+  "title": "Siamo qui per riprenderci la faccia (e i nostri diritti!)",
+  "slug": "lancio-campagna-reclaimyourface",
+  "path": "/lancio-campagna-reclaimyourface/",
+  "original_url": "https://www.hermescenter.org/lancio-campagna-reclaimyourface/",
+  "old_urls": [],
+  "date_gmt": "2020-11-12T08:35:34Z",
+  "date_europe_rome": "2020-11-12 09:35:34",
+  "modified_gmt": "2021-08-27T09:02:23Z",
+  "author": "admin",
+  "language": "IT",
+  "words": 777,
+  "categories": [
+    "News",
+    "Press"
+  ],
+  "tags": [],
+  "featured_image": {
+    "original_url": "https://www.hermescenter.org/wp-content/uploads/2020/11/1834-1024.png",
+    "file": "media/wp-content/uploads/2020/11/1834-1024.png"
+  },
+  "attachments": [
+    {
+      "type": "documento",
+      "original_url": "https://www.hermescenter.org/wp-content/uploads/2020/05/Paper-Ban-Biometric-Mass-Surveillance.pdf",
+      "file": "media/wp-content/uploads/2020/05/Paper-Ban-Biometric-Mass-Surveillance.pdf"
+    },
+    {
+      "type": "documento",
+      "original_url": "https://www.hermescenter.org/wp-content/uploads/2020/05/Paper-Ban-Biometric-Mass-Surveillance.pdf",
+      "file": "media/wp-content/uploads/2020/05/Paper-Ban-Biometric-Mass-Surveillance.pdf"
+    },
+    {
+      "type": "immagine",
+      "original_url": "https://www.hermescenter.org/wp-content/uploads/2020/11/1834-1024-1024x572.png",
+      "file": "media/wp-content/uploads/2020/11/1834-1024-1024x572.png"
+    }
+  ],
+  "missing": [],
+  "content_file": "data/posts/lancio-campagna-reclaimyourface/content.html",
+  "source": {
+    "type": "wayback-live",
+    "file": "data/wayback/articles/lancio-campagna-reclaimyourface.html"
+  }
+}

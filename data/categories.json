@@ -1,0 +1,27 @@
+[
+  {
+    "name": "News",
+    "slug": "news",
+    "posts": 132
+  },
+  {
+    "name": "Press",
+    "slug": "press",
+    "posts": 95
+  },
+  {
+    "name": "/it/",
+    "slug": "it",
+    "posts": 6
+  },
+  {
+    "name": "Uncategorized",
+    "slug": "uncategorized",
+    "posts": 5
+  },
+  {
+    "name": "Newsletter",
+    "slug": "newsletter",
+    "posts": 2
+  }
+]

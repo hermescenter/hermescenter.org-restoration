@@ -1,0 +1,27 @@
+{
+  "id": "radio3-scienza-il-caso-prism",
+  "title": "Radio3 Scienza,  Il caso PRISM",
+  "slug": "radio3-scienza-il-caso-prism",
+  "path": "/radio3-scienza-il-caso-prism/",
+  "original_url": "https://www.hermescenter.org/radio3-scienza-il-caso-prism/",
+  "old_urls": [],
+  "date_gmt": "2013-06-12T15:34:45Z",
+  "date_europe_rome": "2013-06-12 17:34:45",
+  "modified_gmt": "2013-07-10T17:54:14Z",
+  "author": "admin",
+  "language": "IT",
+  "words": 64,
+  "categories": [
+    "News",
+    "Press"
+  ],
+  "tags": [],
+  "featured_image": null,
+  "attachments": [],
+  "missing": [],
+  "content_file": "data/posts/radio3-scienza-il-caso-prism/content.html",
+  "source": {
+    "type": "wayback-zip",
+    "file": "radio3-scienza-il-caso-prism.html"
+  }
+}

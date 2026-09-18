@@ -1,0 +1,33 @@
+{
+  "id": "hey-google-riconosci-la-mia-voce",
+  "title": "“Hey Google! riconosci la mia voce?”",
+  "slug": "hey-google-riconosci-la-mia-voce",
+  "path": "/hey-google-riconosci-la-mia-voce/",
+  "original_url": "https://www.hermescenter.org/hey-google-riconosci-la-mia-voce/",
+  "old_urls": [],
+  "date_gmt": "2020-12-04T15:11:26Z",
+  "date_europe_rome": "2020-12-04 16:11:26",
+  "modified_gmt": "2021-08-27T09:02:22Z",
+  "author": "Laura Carrer",
+  "language": "IT",
+  "words": 763,
+  "categories": [
+    "News",
+    "Press"
+  ],
+  "tags": [],
+  "featured_image": null,
+  "attachments": [
+    {
+      "type": "immagine",
+      "original_url": "https://www.hermescenter.org/wp-content/uploads/2020/12/collage_6psd-copy-1024x576.jpg",
+      "file": "media/wp-content/uploads/2020/12/collage_6psd-copy-1024x576.jpg"
+    }
+  ],
+  "missing": [],
+  "content_file": "data/posts/hey-google-riconosci-la-mia-voce/content.html",
+  "source": {
+    "type": "wayback-zip",
+    "file": "hey-google-riconosci-la-mia-voce.html"
+  }
+}

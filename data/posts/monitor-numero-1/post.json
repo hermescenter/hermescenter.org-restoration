@@ -1,0 +1,67 @@
+{
+  "id": "monitor-numero-1",
+  "title": "Monitor numero 1, novembre 2021",
+  "slug": "monitor-numero-1",
+  "path": "/monitor-numero-1/",
+  "original_url": "https://www.hermescenter.org/monitor-numero-1/",
+  "old_urls": [],
+  "date_gmt": "2021-12-06T22:44:07Z",
+  "date_europe_rome": "2021-12-06 23:44:07",
+  "modified_gmt": "2021-12-06T22:44:30Z",
+  "author": "Laura Carrer",
+  "language": "IT",
+  "words": 2341,
+  "categories": [
+    "News"
+  ],
+  "tags": [],
+  "featured_image": null,
+  "attachments": [
+    {
+      "type": "documento",
+      "original_url": "https://cms.gruene.de/uploads/documents/Koalitionsvertrag-SPD-GRUENE-FDP-2021-2025.pdf",
+      "file": "media/external/cms.gruene.de/Koalitionsvertrag-SPD-GRUENE-FDP-2021-2025.pdf"
+    },
+    {
+      "type": "documento",
+      "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/11/MONITOr.jpg",
+      "file": "media/wp-content/uploads/2021/11/MONITOr.jpg"
+    },
+    {
+      "type": "immagine",
+      "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/12/Schermata-2021-12-06-alle-13.58.15-2-Large-1024x375.png",
+      "file": "media/wp-content/uploads/2021/12/Schermata-2021-12-06-alle-13.58.15-2-Large-1024x375.png"
+    },
+    {
+      "type": "immagine",
+      "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/12/header-logo-youchoose70px-emailsignature.png",
+      "file": "media/wp-content/uploads/2021/12/header-logo-youchoose70px-emailsignature.png"
+    },
+    {
+      "type": "immagine",
+      "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/11/Schermata-2021-11-05-alle-16.30.02.png",
+      "file": "media/wp-content/uploads/2021/11/Schermata-2021-11-05-alle-16.30.02.png"
+    },
+    {
+      "type": "immagine",
+      "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/12/51697461112_f3424feb97_c.jpg",
+      "file": "media/wp-content/uploads/2021/12/51697461112_f3424feb97_c.jpg"
+    },
+    {
+      "type": "immagine",
+      "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/11/WhatsApp-Image-2021-11-05-at-14.52.48.jpeg",
+      "file": "media/wp-content/uploads/2021/11/WhatsApp-Image-2021-11-05-at-14.52.48.jpeg"
+    },
+    {
+      "type": "immagine",
+      "original_url": "https://www.hermescenter.org/wp-content/uploads/2021/11/MONITOr-1024x553.jpg",
+      "file": "media/wp-content/uploads/2021/11/MONITOr-1024x553.jpg"
+    }
+  ],
+  "missing": [],
+  "content_file": "data/posts/monitor-numero-1/content.html",
+  "source": {
+    "type": "wayback-zip",
+    "file": "monitor-numero-1.html"
+  }
+}

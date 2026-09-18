@@ -1,0 +1,27 @@
+{
+  "id": "think-globaleaks",
+  "title": "Think! ,  Globaleaks",
+  "slug": "think-globaleaks",
+  "path": "/think-globaleaks/",
+  "original_url": "https://www.hermescenter.org/think-globaleaks/",
+  "old_urls": [],
+  "date_gmt": "2011-11-21T21:30:11Z",
+  "date_europe_rome": "2011-11-21 22:30:11",
+  "modified_gmt": "2013-07-09T21:37:06Z",
+  "author": "admin",
+  "language": "EN",
+  "words": 560,
+  "categories": [
+    "News",
+    "Press"
+  ],
+  "tags": [],
+  "featured_image": null,
+  "attachments": [],
+  "missing": [],
+  "content_file": "data/posts/think-globaleaks/content.html",
+  "source": {
+    "type": "wayback-zip",
+    "file": "think-globaleaks.html"
+  }
+}

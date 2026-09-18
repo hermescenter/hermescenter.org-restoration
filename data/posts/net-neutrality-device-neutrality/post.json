@@ -1,0 +1,33 @@
+{
+  "id": "net-neutrality-device-neutrality",
+  "title": "After Net Neutrality, Device Neutrality",
+  "slug": "net-neutrality-device-neutrality",
+  "path": "/net-neutrality-device-neutrality/",
+  "original_url": "https://www.hermescenter.org/net-neutrality-device-neutrality/",
+  "old_urls": [],
+  "date_gmt": "2017-12-04T13:18:32Z",
+  "date_europe_rome": "2017-12-04 14:18:32",
+  "modified_gmt": "2021-08-27T09:04:11Z",
+  "author": "Editor",
+  "language": "EN",
+  "words": 994,
+  "categories": [
+    "News",
+    "Press"
+  ],
+  "tags": [],
+  "featured_image": null,
+  "attachments": [
+    {
+      "type": "documento",
+      "original_url": "http://www.beuc.eu/publications/beuc-x-2017-129_provisions_of_internet_services_for_competition_protection_and_free_access_for_users.pdf",
+      "file": "media/external/beuc.eu/beuc-x-2017-129_provisions_of_internet_services_fo-20375715.pdf"
+    }
+  ],
+  "missing": [],
+  "content_file": "data/posts/net-neutrality-device-neutrality/content.html",
+  "source": {
+    "type": "wayback-zip",
+    "file": "net-neutrality-device-neutrality.html"
+  }
+}

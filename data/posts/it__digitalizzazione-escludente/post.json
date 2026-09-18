@@ -1,0 +1,36 @@
+{
+  "id": "it__digitalizzazione-escludente",
+  "title": "Digitalizzazione escludente",
+  "slug": "digitalizzazione-escludente",
+  "path": "/it/digitalizzazione-escludente/",
+  "original_url": "https://www.hermescenter.org/it/digitalizzazione-escludente/",
+  "old_urls": [
+    "/it_digitalizzazione-escludente/"
+  ],
+  "date_gmt": "2023-01-30T15:29:18Z",
+  "date_europe_rome": "2023-01-30 16:29:18",
+  "modified_gmt": "2023-01-30T15:50:39Z",
+  "author": "admin",
+  "language": "IT",
+  "words": 913,
+  "categories": [
+    "/it/",
+    "Newsletter",
+    "Uncategorized"
+  ],
+  "tags": [],
+  "featured_image": null,
+  "attachments": [
+    {
+      "type": "immagine",
+      "original_url": "https://www.hermescenter.org/wp-content/uploads/2023/01/copertina-report-jpeg-2.jpg",
+      "file": "media/wp-content/uploads/2023/01/copertina-report-jpeg-2.jpg"
+    }
+  ],
+  "missing": [],
+  "content_file": "data/posts/it__digitalizzazione-escludente/content.html",
+  "source": {
+    "type": "wayback-zip",
+    "file": "it/digitalizzazione-escludente.html"
+  }
+}

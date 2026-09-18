@@ -1,0 +1,38 @@
+{
+  "id": "anac-ed-openwhistleblowing",
+  "title": "ANAC ed OpenWhistleblowing",
+  "slug": "anac-ed-openwhistleblowing",
+  "path": "/anac-ed-openwhistleblowing/",
+  "original_url": "https://www.hermescenter.org/anac-ed-openwhistleblowing/",
+  "old_urls": [],
+  "date_gmt": "2019-01-15T23:04:27Z",
+  "date_europe_rome": "2019-01-16 00:04:27",
+  "modified_gmt": "2021-08-27T09:03:53Z",
+  "author": "admin",
+  "language": "IT",
+  "words": 1303,
+  "categories": [
+    "News",
+    "Press"
+  ],
+  "tags": [],
+  "featured_image": null,
+  "attachments": [
+    {
+      "type": "documento",
+      "original_url": "http://www.anticorruzione.it/portal/rest/jcr/repository/collaboration/Digital%20Assets/anacdocs/Attivita/Anticorruzione/SegnalazioniIllecitoWhistleblower/SegnalazioneIllecitiTutelaDipendentePubblico/Piattaforma.whistleblowing.ANAC.pdf",
+      "file": "media/external/anticorruzione.it/Piattaforma.whistleblowing.ANAC.pdf"
+    },
+    {
+      "type": "documento",
+      "original_url": "http://www.anticorruzione.it/portal/rest/jcr/repository/collaboration/Digital%20Assets/anacdocs/AmministrazioneTrasparente/AltriContenutiCorruzione/2017_2019/PTPC_31%20gennaio%202017.pdf",
+      "file": "media/external/anticorruzione.it/PTPC_31 gennaio 2017.pdf"
+    }
+  ],
+  "missing": [],
+  "content_file": "data/posts/anac-ed-openwhistleblowing/content.html",
+  "source": {
+    "type": "wayback-zip",
+    "file": "anac-ed-openwhistleblowing.html"
+  }
+}

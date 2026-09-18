@@ -1,0 +1,37 @@
+{
+  "id": "digital-whistleblowing-fund",
+  "title": "Digital Whistleblowing Fund",
+  "slug": "digital-whistleblowing-fund",
+  "path": "/digital-whistleblowing-fund/",
+  "original_url": "https://www.hermescenter.org/digital-whistleblowing-fund/",
+  "old_urls": [],
+  "date_gmt": "2017-08-29T12:43:20Z",
+  "date_europe_rome": "2017-08-29 14:43:20",
+  "modified_gmt": "2017-08-29T14:27:13Z",
+  "author": "admin",
+  "language": "EN",
+  "words": 766,
+  "categories": [
+    "News"
+  ],
+  "tags": [],
+  "featured_image": null,
+  "attachments": [
+    {
+      "type": "immagine",
+      "original_url": "https://www.hermescenter.org/wp-content/uploads/2017/08/globaleaks-ppint2014-10-638-300x225.jpg",
+      "file": "media/wp-content/uploads/2017/08/globaleaks-ppint2014-10-638-300x225.jpg"
+    },
+    {
+      "type": "immagine",
+      "original_url": "https://www.hermescenter.org/wp-content/uploads/2017/08/Screen-Shot-2017-08-28-at-19.58.05-300x150.png",
+      "file": "media/wp-content/uploads/2017/08/Screen-Shot-2017-08-28-at-19.58.05-300x150.png"
+    }
+  ],
+  "missing": [],
+  "content_file": "data/posts/digital-whistleblowing-fund/content.html",
+  "source": {
+    "type": "wayback-zip",
+    "file": "digital-whistleblowing-fund.html"
+  }
+}
